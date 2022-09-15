@@ -1,7 +1,7 @@
 import axios, { AxiosPromise } from "axios";
 
 class Fetch{
-    private __base_url: string = process.env.NODE_ENV !== "production" ? 'http://beta.api.nexta.vn/apis/v2' : "";
+    private __base_url: string = process.env.NODE_ENV !== "production" ? 'http://127.0.0.1:3009/apis/v2' : "http://beta.api.nexta.vn/apis/v2";
     private __access_token: string = "";
 
     async postWithAccessToken<ResponseType>(url: string, params: Object, array_fields: string[] = [], show_loading = true): Promise<AxiosPromise<ResponseType>> {
