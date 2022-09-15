@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BaDaoSuotDoi/nexta.school/static/css/main.00d9925b.css",
-    "main.js": "/BaDaoSuotDoi/nexta.school/static/js/main.b5d533d3.js",
-    "static/js/787.bdc34fff.chunk.js": "/BaDaoSuotDoi/nexta.school/static/js/787.bdc34fff.chunk.js",
-    "index.html": "/BaDaoSuotDoi/nexta.school/index.html",
-    "main.00d9925b.css.map": "/BaDaoSuotDoi/nexta.school/static/css/main.00d9925b.css.map",
-    "main.b5d533d3.js.map": "/BaDaoSuotDoi/nexta.school/static/js/main.b5d533d3.js.map",
-    "787.bdc34fff.chunk.js.map": "/BaDaoSuotDoi/nexta.school/static/js/787.bdc34fff.chunk.js.map"
+    "main.css": "/nexta.school/static/css/main.00d9925b.css",
+    "main.js": "/nexta.school/static/js/main.170f27e5.js",
+    "static/js/787.bdc34fff.chunk.js": "/nexta.school/static/js/787.bdc34fff.chunk.js",
+    "index.html": "/nexta.school/index.html",
+    "main.00d9925b.css.map": "/nexta.school/static/css/main.00d9925b.css.map",
+    "main.170f27e5.js.map": "/nexta.school/static/js/main.170f27e5.js.map",
+    "787.bdc34fff.chunk.js.map": "/nexta.school/static/js/787.bdc34fff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00d9925b.css",
-    "static/js/main.b5d533d3.js"
+    "static/js/main.170f27e5.js"
   ]
 }
