@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nexta.school/static/css/main.00d9925b.css",
-    "main.js": "/nexta.school/static/js/main.170f27e5.js",
+    "main.js": "/nexta.school/static/js/main.d967e41e.js",
     "static/js/787.bdc34fff.chunk.js": "/nexta.school/static/js/787.bdc34fff.chunk.js",
     "index.html": "/nexta.school/index.html",
     "main.00d9925b.css.map": "/nexta.school/static/css/main.00d9925b.css.map",
-    "main.170f27e5.js.map": "/nexta.school/static/js/main.170f27e5.js.map",
+    "main.d967e41e.js.map": "/nexta.school/static/js/main.d967e41e.js.map",
     "787.bdc34fff.chunk.js.map": "/nexta.school/static/js/787.bdc34fff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00d9925b.css",
-    "static/js/main.170f27e5.js"
+    "static/js/main.d967e41e.js"
   ]
 }
