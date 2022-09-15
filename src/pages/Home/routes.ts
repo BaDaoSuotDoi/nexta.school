@@ -3,7 +3,7 @@ import Home from "."
 export default {
     routes: [
         {
-            path: "/",
+            path: "/nexta.school",
             component: Home
         }
     ]
